@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Decision</string>
+    <string name="coin_click_text">点击硬币翻转</string>
+</resources>
